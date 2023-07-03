@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "14f4c7fe-6251-45c0-933f-96fcb4979838": {
+      "ProjectGuid": "14f4c7fe-6251-45c0-933f-96fcb4979838",
+      "DisplayName": "GameServer",
+      "ColorIndex": 0
+    },
+    "6f67da6a-159d-4fef-9886-c393fa0b2125": {
+      "ProjectGuid": "6f67da6a-159d-4fef-9886-c393fa0b2125",
+      "DisplayName": "DummyClient",
+      "ColorIndex": 1
+    },
+    "7174730e-8d9b-4525-9cf4-dd028c5f11a2": {
+      "ProjectGuid": "7174730e-8d9b-4525-9cf4-dd028c5f11a2",
+      "DisplayName": "ServerCore",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
